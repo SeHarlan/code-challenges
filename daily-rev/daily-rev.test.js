@@ -436,4 +436,5 @@ describe('daily rev tests', () => {
     ]
     expect(dailyRev(input)).toEqual(expected)
   })
+
 })
